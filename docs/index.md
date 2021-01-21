@@ -1,2 +1,2 @@
 
-## Hello zHooks!
+## Hello react-zhooks!

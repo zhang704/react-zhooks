@@ -1,4 +1,4 @@
-# zHooks
+# react-zhooks
 
 ## Getting Started
 
